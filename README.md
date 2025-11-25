@@ -1,8 +1,13 @@
  <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-    <h1 align="center"><img align="center" alt="coding" width="400" margin-left="800px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></h1>
-<h3 align="center">A passionate frontend developer from India</h3
+    <p align="center"><img align="center" alt="coding" width="400" margin-left="800px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
+<h3 align="center">A passionate frontend developer from India</h3>
+<h2></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumar2828&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumar2828" /> </p>
+<b>About Me ........</b>
+<p>👋 Hi, I'm Yash Kumar 🎓 BCA 3rd Year Student 💻 Aspiring Web Developer
+🚀 Passionate about building projects, problem-solving, and improving my coding skills
+📚 I enjoy learning new technologies and working on real-world applications</p>
 
 - 🌱 I’m currently learning **React JS, Node JS, Express JS etc**
 
